@@ -8,12 +8,15 @@ package cn.itcast.day06.demo05;
 3. 编写一个无参数的构造方法
 4. 编写一个全参数的构造方法
 
+注意：快捷键 Alt+Insert快速生成代码
+
 这样标准的类也叫做Java Bean
  */
 public class Student {
 
     private String name; // 姓名
     private int age; // 年龄
+
 
     public Student() {
     }
