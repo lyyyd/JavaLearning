@@ -17,6 +17,8 @@ import java.util.HashMap;
  *
  * @author 不是我
  */
+
+ 
 public abstract class RedPacketFrame extends JFrame {
 
     private static final long serialVersionUID = 1L;
