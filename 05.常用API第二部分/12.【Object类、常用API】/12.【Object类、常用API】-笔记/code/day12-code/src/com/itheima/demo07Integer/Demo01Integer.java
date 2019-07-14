@@ -12,7 +12,7 @@ package com.itheima.demo07Integer;
         成员方法:
             int intValue() 以 int 类型返回该 Integer 的值。
  */
-public class Demo01Integer {
+public class  Demo01Integer {
     public static void main(String[] args) {
         //装箱:把基本类型的数据,包装到包装类中(基本类型的数据->包装类)
         //构造方法
