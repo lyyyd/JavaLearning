@@ -1,4 +1,4 @@
-package com.myDiGui.itheima_02;
+package com.myDiGui.java_02;
 
 import java.io.File;
 
