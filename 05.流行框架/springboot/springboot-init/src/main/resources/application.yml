@@ -1,0 +1,9 @@
+person:
+  name: zhangsan
+  age: 20
+  address:
+  - beijing
+  - shanghai
+
+server:
+  port: 8082
