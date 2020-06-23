@@ -1,0 +1,8 @@
+GET http://localhost:8081/{%20/error}
+
+###
+
+GET http://localhost:8081/{GET%20/actuator/mappings,%20produces%20[application/vnd.spring-boot.actuator.v2+json
+
+###
+

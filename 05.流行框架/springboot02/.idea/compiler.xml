@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redis-spring-boot-autoconfigure" />
+        <module name="redis-spring-boot-starter" />
+        <module name="springboot-actuator" />
+        <module name="springboot-admin-client" />
+        <module name="springboot-admin-server" />
+        <module name="springboot-condition" />
+        <module name="springboot-deploy" />
+        <module name="springboot-enable" />
+        <module name="springboot-enable-other" />
+        <module name="springboot-listener" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="redis-spring-boot-autoconfigure" target="1.8" />
+      <module name="redis-spring-boot-starter" target="1.8" />
+      <module name="springboot-actuator" target="1.8" />
+      <module name="springboot-actuators" target="1.8" />
+      <module name="springboot-admin-client" target="1.8" />
+      <module name="springboot-admin-server" target="1.8" />
+      <module name="springboot-condition" target="1.8" />
+      <module name="springboot-conditional" target="1.8" />
+      <module name="springboot-deploy" target="1.8" />
+      <module name="springboot-deploys" target="1.8" />
+      <module name="springboot-enable" target="1.8" />
+      <module name="springboot-enable-other" target="1.8" />
+      <module name="springboot-listener" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

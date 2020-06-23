@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-spring-boot-autoconfigure/redis-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/redis-spring-boot-autoconfigure/redis-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-spring-boot-starter/redis-spring-boot-starter.iml" filepath="$PROJECT_DIR$/redis-spring-boot-starter/redis-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-actuator/springboot-actuator.iml" filepath="$PROJECT_DIR$/springboot-actuator/springboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" filepath="$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-admin-server/springboot-admin-server.iml" filepath="$PROJECT_DIR$/springboot-admin-server/springboot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-condition/springboot-condition.iml" filepath="$PROJECT_DIR$/springboot-condition/springboot-condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-deploy/springboot-deploy.iml" filepath="$PROJECT_DIR$/springboot-deploy/springboot-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-enable/springboot-enable.iml" filepath="$PROJECT_DIR$/springboot-enable/springboot-enable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" filepath="$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-listener/springboot-listener.iml" filepath="$PROJECT_DIR$/springboot-listener/springboot-listener.iml" />
+    </modules>
+  </component>
+</project>
