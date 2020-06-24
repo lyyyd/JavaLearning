@@ -1,0 +1,3 @@
+org.springframework.context.ApplicationContextInitializer=com.itheima.springbootlistener.listener.MyApplicationContextInitializer
+
+org.springframework.boot.SpringApplicationRunListener=com.itheima.springbootlistener.listener.MySpringApplicationRunListener
