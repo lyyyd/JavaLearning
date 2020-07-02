@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="heima-gateway" />
+        <module name="config-server" />
+        <module name="http-demo" />
+        <module name="consumer-demo" />
+        <module name="user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="consumer-demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="heima-gateway" target="1.8" />
+      <module name="heima-springcloud" target="1.8" />
+      <module name="http-demo" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server" options="-parameters" />
+      <module name="consumer-demo" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="heima-gateway" options="-parameters" />
+      <module name="http-demo" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>
